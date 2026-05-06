@@ -11,42 +11,63 @@
   </url>
 
   <url>
-    <loc>https://damas-postop.com/#/services</loc>
+    <loc>https://damas-postop.com/services/liposuction</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://damas-postop.com/#/about</loc>
+    <loc>https://damas-postop.com/services/bbl</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://damas-postop.com/services/tummy-tuck</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://damas-postop.com/services/mommy-makeover</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://damas-postop.com/about</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://damas-postop.com/#/faq</loc>
+    <loc>https://damas-postop.com/faq</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://damas-postop.com/#/contact</loc>
+    <loc>https://damas-postop.com/contact</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://damas-postop.com/#/privacy</loc>
+    <loc>https://damas-postop.com/privacy</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
-    <loc>https://damas-postop.com/#/terms</loc>
+    <loc>https://damas-postop.com/terms</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
