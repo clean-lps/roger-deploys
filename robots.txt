@@ -1,13 +1,2 @@
-# DAMA'S Post-Op Robots Configuration
-# Allow search engines to crawl and index all pages
-
 User-agent: *
 Allow: /
-Disallow: /admin
-Disallow: /.git
-
-# Sitemap location
-Sitemap: https://damas-postop.com/sitemap.xml
-
-# Crawl delay (optional - use if needed)
-# Crawl-delay: 1
