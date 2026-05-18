@@ -1,10 +1,17 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="18" fill="#1E8F87"/>
-  <path d="M18 38.5H46" stroke="#F5FBFB" stroke-width="4.5" stroke-linecap="round"/>
-  <path d="M22 38.5L26 27.5C26.5 26.1 27.8 25.1 29.3 25.1H34.7C36.2 25.1 37.5 26.1 38 27.5L42 38.5" stroke="#F5FBFB" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M24 38.5V42C24 43.1 24.9 44 26 44H28" stroke="#F5FBFB" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M40 38.5V42C40 43.1 39.1 44 38 44H36" stroke="#F5FBFB" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="24.5" cy="38.5" r="2.6" fill="#F5FBFB"/>
-  <circle cx="39.5" cy="38.5" r="2.6" fill="#F5FBFB"/>
-  <path d="M47 16L48.1 19.4L51.5 20.5L48.1 21.6L47 25L45.9 21.6L42.5 20.5L45.9 19.4L47 16Z" fill="#F5FBFB"/>
+  <!-- Pili Car Detailing brand favicon — navy bg, white car silhouette, blue sparkle -->
+  <rect width="64" height="64" rx="12" fill="#1A2B5E"/>
+  <!-- Car body silhouette with wheel arches -->
+  <path d="M6 44 Q6 40 10 40 Q12 40 13 38 L18 29 C20 26.5 23 25.5 28 25.5 L36 25.5 C41 25.5 44 26.5 46 29 L51 38 Q52 40 54 40 Q58 40 58 44 L58 46 L50.5 46 Q50.5 49.5 46 49.5 Q41.5 49.5 41.5 46 L22.5 46 Q22.5 49.5 18 49.5 Q13.5 49.5 13.5 46 L6 46 Z" fill="white" opacity="0.93"/>
+  <!-- Wheel rims (dark circles inside white arches) -->
+  <circle cx="18" cy="46" r="4" fill="#1A2B5E"/>
+  <circle cx="18" cy="46" r="1.8" fill="white" opacity="0.5"/>
+  <circle cx="46" cy="46" r="4" fill="#1A2B5E"/>
+  <circle cx="46" cy="46" r="1.8" fill="white" opacity="0.5"/>
+  <!-- Windshield / cabin window area -->
+  <path d="M24.5 26.5 L21.5 34 L42.5 34 L39.5 26.5 Z" fill="#1A2B5E" opacity="0.28"/>
+  <!-- Sparkle star — brand blue, top-right, matching logo detail -->
+  <path d="M50 8 L51.2 11.8 L55 13 L51.2 14.2 L50 18 L48.8 14.2 L45 13 L48.8 11.8 Z" fill="#3B7DD8"/>
+  <!-- Smaller sparkle -->
+  <path d="M57 15 L57.7 17.1 L59.8 17.8 L57.7 18.5 L57 20.6 L56.3 18.5 L54.2 17.8 L56.3 17.1 Z" fill="#3B7DD8" opacity="0.75"/>
 </svg>
