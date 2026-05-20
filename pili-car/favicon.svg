@@ -1,17 +1,11 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Pili Car Detailing brand favicon — navy bg, white car silhouette, blue sparkle -->
   <rect width="64" height="64" rx="12" fill="#1A2B5E"/>
-  <!-- Car body silhouette with wheel arches -->
-  <path d="M6 44 Q6 40 10 40 Q12 40 13 38 L18 29 C20 26.5 23 25.5 28 25.5 L36 25.5 C41 25.5 44 26.5 46 29 L51 38 Q52 40 54 40 Q58 40 58 44 L58 46 L50.5 46 Q50.5 49.5 46 49.5 Q41.5 49.5 41.5 46 L22.5 46 Q22.5 49.5 18 49.5 Q13.5 49.5 13.5 46 L6 46 Z" fill="white" opacity="0.93"/>
-  <!-- Wheel rims (dark circles inside white arches) -->
+  <path d="M6 44Q6 40 10 40Q12 40 13 38L18 29C20 26.5 23 25.5 28 25.5H36C41 25.5 44 26.5 46 29L51 38Q52 40 54 40Q58 40 58 44V46H50.5Q50.5 49.5 46 49.5Q41.5 49.5 41.5 46H22.5Q22.5 49.5 18 49.5Q13.5 49.5 13.5 46H6V44Z" fill="#fff" opacity="0.93"/>
   <circle cx="18" cy="46" r="4" fill="#1A2B5E"/>
-  <circle cx="18" cy="46" r="1.8" fill="white" opacity="0.5"/>
+  <circle cx="18" cy="46" r="1.8" fill="#fff" opacity="0.5"/>
   <circle cx="46" cy="46" r="4" fill="#1A2B5E"/>
-  <circle cx="46" cy="46" r="1.8" fill="white" opacity="0.5"/>
-  <!-- Windshield / cabin window area -->
-  <path d="M24.5 26.5 L21.5 34 L42.5 34 L39.5 26.5 Z" fill="#1A2B5E" opacity="0.28"/>
-  <!-- Sparkle star — brand blue, top-right, matching logo detail -->
-  <path d="M50 8 L51.2 11.8 L55 13 L51.2 14.2 L50 18 L48.8 14.2 L45 13 L48.8 11.8 Z" fill="#3B7DD8"/>
-  <!-- Smaller sparkle -->
-  <path d="M57 15 L57.7 17.1 L59.8 17.8 L57.7 18.5 L57 20.6 L56.3 18.5 L54.2 17.8 L56.3 17.1 Z" fill="#3B7DD8" opacity="0.75"/>
+  <circle cx="46" cy="46" r="1.8" fill="#fff" opacity="0.5"/>
+  <path d="M24.5 26.5L21.5 34H42.5L39.5 26.5Z" fill="#1A2B5E" opacity="0.28"/>
+  <path d="M50 8L51.2 11.8L55 13L51.2 14.2L50 18L48.8 14.2L45 13L48.8 11.8L50 8Z" fill="#3B7DD8"/>
+  <path d="M57 15L57.7 17.1L59.8 17.8L57.7 18.5L57 20.6L56.3 18.5L54.2 17.8L56.3 17.1L57 15Z" fill="#3B7DD8" opacity="0.75"/>
 </svg>
