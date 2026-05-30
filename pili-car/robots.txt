@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-# Crawling is allowed. Add a sitemap URL here when the final production domain is configured.
