@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Crawling is allowed even before a final production domain is configured.
-# Add VITE_SITE_URL to emit a production sitemap URL here.
