@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-# Template default: unlock crawling only after replacing placeholder business data
-# and publishing a real sitemap for the configured production domain.
+Sitemap: https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/sitemap.xml

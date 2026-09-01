@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MovingCompany",
+      "@id": "https://clean-lps.github.io/roger-deploys/martinez-moving-solutions#moving-company",
+      "name": "Martinez Moving Solutions LLC",
+      "url": "https://clean-lps.github.io/roger-deploys/martinez-moving-solutions",
+      "telephone": "+1-786-678-5082",
+      "email": "martinezmoving26@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2343 NW 7st",
+        "addressLocality": "Miami"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      "serviceType": [
+        "Moving",
+        "Loading and unloading",
+        "Deliveries",
+        "Storage",
+        "Transport"
+      ],
+      "sameAs": [
+        "https://www.instagram.com/martinezmovingsolutions26/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://clean-lps.github.io/roger-deploys/martinez-moving-solutions#website",
+      "name": "Martinez Moving Solutions LLC",
+      "url": "https://clean-lps.github.io/roger-deploys/martinez-moving-solutions",
+      "inLanguage": [
+        "en",
+        "es"
+      ]
+    }
+  ]
+}
