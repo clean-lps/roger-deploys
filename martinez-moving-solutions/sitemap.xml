@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/about</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/how-it-works</loc>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/services</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/faq</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/contact</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/privacy</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://clean-lps.github.io/roger-deploys/martinez-moving-solutions/terms</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
