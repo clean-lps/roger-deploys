@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Template default: unlock crawling only after replacing placeholder business data
+# and publishing a real sitemap for the configured production domain.
