@@ -18,3 +18,11 @@ Rules:
   - Anything in this folder is displayed on the site as a finished project
 
 If a photo should NOT appear on the site, remove it from this folder.
+
+Gallery video
+=============
+
+The project video lives in `public/assets/videos/` (see that folder's README).
+It is rendered as the first tile of the gallery grid, before the photos, and it
+plays inside the full-screen viewer. Only one video is used: if several files
+are present, the first one in natural order wins.
